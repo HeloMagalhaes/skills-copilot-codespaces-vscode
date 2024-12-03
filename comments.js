@@ -1,5 +1,7 @@
 // create web server and listen to port 3000
-// 1. create a web server
+// create a route for comments
+// create a route for comment/:id
+// create a route for comments/:id// 1. create a web server
 // 2. listen to port 3000
 var http = require('http');
 var fs = require('fs');
